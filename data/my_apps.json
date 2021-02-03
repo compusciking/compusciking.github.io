@@ -49,7 +49,7 @@
 	},
   	{
 		"appIcon": "https://play-lh.googleusercontent.com/DKoiNvfvmRH7fM7gGUXXE-zAh_ismR99oXS-VoSB18iEtAxhE3IZm0GOQG0Ur9eBjM-s=s180",
-		"appName": "Hex Live Wallpaper - hexpunk 2077",
+		"appName": "Hex Live Wallpaper",
 		"appDescription": "Awesome Hexagonal Live Wallpaper",
 		"url": "https://play.google.com/store/apps/details?id=io.crydata.LiveWallpaperHex"
 	},
@@ -58,5 +58,17 @@
 		"appName": "Matrix Live Wallpaper",
 		"appDescription": "make it more unique and beautiful with the awesome Sci-fi look",
 		"url": "https://play.google.com/store/apps/details?id=io.crydata.matrixlivewallpaper.matrix"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/v5jPoVtHyy6K8UPSj9EPC3XQM_fawvEmhChzwTxgx3nh-Sv8OQQh2R9GNuj4JUkIUw=s180",
+		"appName": "Magnifier Glass",
+		"appDescription": "it will help you magnify small text,objects...",
+		"url": "https://play.google.com/store/apps/details?id=com.crydata.magnifier.glass"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/5LuXosxRvUJQOdBmEPnLb7rlgzZbL2mWI0XEm_UuzMi9jU83K_wkNW19LFfRoKhKmPvf=s180",
+		"appName": "Mirror : Free your beauty 2021",
+		"appDescription": "Cool mirror for everyday use!",
+		"url": "https://play.google.com/store/apps/details?id=com.crydata.mirror"
 	}
 ]
