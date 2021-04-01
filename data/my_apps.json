@@ -78,4 +78,10 @@
 		"appDescription": "Cool RGB Interactive Wallpaper!(Early Access)",
 		"url": "https://play.google.com/store/apps/details?id=com.crydata.rgbfanlivewallpaper"
 	}
+        ,{
+		"appIcon": "https://play-lh.googleusercontent.com/_QpA8t8fGyRnaTsX21di1ZL1ycRZKlTZhVXhOb2hnzoDZePWUc3Wag6Mwrw5wevtC-M=s200-rw",
+		"appName": "Tic Tac Toe Game 2021",
+		"appDescription": "Can You Beat the AI,Lets See! ",
+		"url": "https://play.google.com/store/apps/details?id=com.crydata.tictactoe"
+	}
 ]
